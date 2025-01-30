@@ -690,6 +690,7 @@ margin-top: 160px;
   .banner-desc{
     flex-wrap: wrap;
     gap: 20px;
+    text-align: center;
   }
   .hero-banner-container{
     line-height: 1.3;
@@ -794,3 +795,9 @@ margin-top: 160px;
 }
 }
 
+
+.banner-desc{
+  flex-wrap: wrap;
+  gap: 20px;
+  text-align: center;
+}

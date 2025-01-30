@@ -11,13 +11,13 @@ const Layout =({children}) =>{
                  <title>JS Mastery Store</title>
             </head>
             <header>
-            <Navbar />
+        
             </header>
             <main className="main-container">
             {children}
             </main>
             <footer>
-            <Footer />
+           
             </footer>
       </div>
     )
